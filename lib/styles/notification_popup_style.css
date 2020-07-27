@@ -1,0 +1,23 @@
+
+#popup {
+    position: fixed;
+    bottom: 0;
+    left: 10px;
+}
+
+#popup>div {
+    background-color: white;
+    padding: 10px 20px 10px 13px;
+    border-radius: 3px;
+    border-left: grey 7px solid;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+#popup>div.valide {
+    border-left: var(--vert) 7px solid;
+}
+
+#popup>div.erreur {
+    border-left: var(--rouge) 7px solid;
+}

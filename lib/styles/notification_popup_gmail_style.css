@@ -1,0 +1,38 @@
+#popup>div {
+    background-color: white;
+    border-radius: 3px;
+    border-left: grey 7px solid;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    box-shadow: 0 1px 3px 0 rgba(60, 64, 67, 0.302), 0 4px 8px 3px rgba(60, 64, 67, 0.149);
+    -webkit-font-smoothing: antialiased;
+    font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;
+    font-size: .875rem;
+    letter-spacing: .2px;
+    -webkit-align-items: center;
+    align-items: center;
+    background-color: #fff;
+    border: none;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    bottom: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #5f6368;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    font-weight: 400;
+    left: 0;
+    margin: 24px;
+    max-width: 640px;
+    min-height: 52px;
+    padding: 8px 24px;
+    padding-right: 52px;
+    right: auto;
+    text-align: left;
+    top: auto;
+    white-space: normal;
+}
